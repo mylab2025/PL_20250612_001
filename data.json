@@ -6,7 +6,8 @@
     "Status": "Ready",
     "PlannedDate": "2025-06-11T00:00:00",
     "Remarks": "testcase",
-    "Deducted": true
+    "Deducted": true,
+    "Approval": "Approved"
   },
   "materials": [
     {
